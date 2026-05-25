@@ -1,5 +1,8 @@
 luscious.net
+members.luscious.net
+api.luscious.net
 npoint.io
+api.npoint.io
 adshnk.com
 icloud.com
 scdn.nt
