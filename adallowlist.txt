@@ -1,4 +1,7 @@
+www.last.fm
 last.fm
+lastfm-img.freetls.fastly.net
+www.lastfm-img.freetls.fastly.net
 members.luscious.net
 luscious.net
 avatars-cdn.luscious.net
